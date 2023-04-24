@@ -9,6 +9,20 @@
 2. Unzip `Languages.zip`. <br>解压 `Languages.zip`。
 3. Use the extracted `Languages` folder to replace the `Languages` folder in the File Converter installation folder. <br>将解压出来的 `Languages` 文件夹用于替换 File Converter 安装文件夹中的 `Languages` 文件夹。
 
+## Languages | 语言列表
+- `de-DE` Deutsch (Deutschland)
+- `en` English
+- `es-ES` Español (España)
+- `fr` Français
+- `fr-FR` Français (France)
+- `hi-IN` हिन्दी (भारत)
+- `it-IT` Italiano (Italia)
+- `pt` Português
+- `pt-BR` Português (Brasil)
+- `pt-BT` Português (Portugal)
+- `tr-TR` Türkçe (Türkiye)
+- `zh-CN` 简体中文（中国）
+
 ## Description
 **File Converter** is a very simple tool which allows you to convert and compress one or several file(s) using the context menu of windows explorer.
 
