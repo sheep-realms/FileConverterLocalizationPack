@@ -1,5 +1,14 @@
 # File Converter
 
+## How to use the localization pack | 本地化包使用方法
+[Download Original Setup Pack | 下载原版安装包](https://github.com/Tichau/FileConverter/releases/) 
+
+[Download Localization Pack | 下载本地化包](https://github.com/sheep-realms/FileConverterLocalizationPack/releases)
+
+1. Install File Converter. <br>安装 File Converter。
+2. Unzip `Languages.zip`. <br>解压 `Languages.zip`。
+3. Use the extracted `Languages` folder to replace the `Languages` folder in the File Converter installation folder. <br>将解压出来的 `Languages` 文件夹用于替换 File Converter 安装文件夹中的 `Languages` 文件夹。
+
 ## Description
 **File Converter** is a very simple tool which allows you to convert and compress one or several file(s) using the context menu of windows explorer.
 
