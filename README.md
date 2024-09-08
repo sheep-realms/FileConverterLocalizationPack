@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> The latest version of FileConverter has a built-in localization package.<br>FileConverter 最新版本已经内置本地化包。
+
 # File Converter
 
 ## How to use the localization pack | 本地化包使用方法
